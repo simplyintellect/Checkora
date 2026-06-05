@@ -50,21 +50,6 @@ Join our Discord community for updates, support, and games: https://discord.gg/D
 
 </div>
 
-## Table of Contents
-
-- [Contributors](#contributors)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Architecture](#architecture)
-- [How It Works](#how-it-works)
-- [API Reference](#api-reference)
-- [Tests](#tests)
-- [Troubleshooting Guide](#troubleshooting-guide)
-- [Contributor Support & Feedback](#contributor-support--feedback)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Contributors
